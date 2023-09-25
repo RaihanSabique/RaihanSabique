@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Data Engineer
 - 🌱 I’m currently learning Big Data Analytics and Management
 - 👯 I’m looking to collaborate on Data Mining, Machine Learning, and Analytics
-- 📫 Find me: https://mmraihan.herokuapp.com/
+- 📫 Find me: [https://raihansabique.github.io](https://raihansabique.github.io/)
