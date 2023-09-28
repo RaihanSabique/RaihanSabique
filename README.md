@@ -21,7 +21,7 @@
 </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Data Engineer
-- 🌱 I’m currently learning Big Data Analytics and Management
-- 👯 I’m looking to collaborate on Data Mining, Machine Learning, and Analytics
+- 🔭 Currently working as a Graduate Research Assistant at Ubicomp Lab, Marquette University
+- 🌱 Learning iOS Swift development, Privacy and Security Analysis, Sensors data analysis and Machine Learning
+- 👯 Looking for Internship opportunity
 - 📫 Find me: [https://raihansabique.github.io](https://raihansabique.github.io/)
