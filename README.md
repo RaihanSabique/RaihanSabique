@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" >
-	<a href="https://github.com/skekre98/skekre98"> 
+	<a href="https://github.com/RaihanSabique/RaihanSabique"> 
     	<img  src="https://github-readme-stats.vercel.app/api?username=RaihanSabique&&show_icons=true&count_private=true&theme=solarized-dark"/>
   	</a>
 </p>
@@ -19,9 +19,4 @@
 	<a target="_blank"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-%2312100E.svg?logo=scikit-learn&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%2312100E.svg?logo=linux&style=for-the-badge"/></a> 
 </p>
-Here are some ideas to get you started:
-
-- 🔭 Currently working as a Graduate Research Assistant at Ubicomp Lab, Marquette University
-- 🌱 Learning iOS Swift development, Privacy and Security Analysis, Sensors data analysis and Machine Learning
-- 👯 Looking for Internship opportunity
 - 📫 Find me: [https://raihansabique.github.io](https://raihansabique.github.io/)
