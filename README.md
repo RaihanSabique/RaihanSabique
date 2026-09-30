@@ -24,10 +24,11 @@ At [**UbiComply**](https://ubicomply.ai), I lead applied-AI research for a compl
 ### 🚀 Featured projects
 | Project | What it is |
 |---|---|
-| [**FingerTap2UPDRS**](https://github.com/RaihanSabique/FingerTap2UPDRS) 🆕 | Phone video of the MDS-UPDRS 3.4 finger-tapping test → hand keypoints (RTMPose) → interpretable tapping kinematics → UPDRS score (0–3) and P(Parkinson's). CPU-only, with a CLI and a web app |
-| [**SMT-Learner**](https://github.com/RaihanSabique/SMT-Learner) · [🤗 Model](https://huggingface.co/raihan116/SMT-Learner) | Self-supervised transformer for human movement trajectories, with a biomarker of motor skill learning |
+| [**FingerTap2UPDRS**](https://github.com/RaihanSabique/FingerTap2UPDRS) | Phone video of the MDS-UPDRS 3.4 finger-tapping test → hand keypoints (RTMPose) → interpretable tapping kinematics → UPDRS score (0–3) and P(Parkinson's). |
+| [**V2K-VLMBench**](https://github.com/RaihanSabique/V2K-VLMBench)| Video-to-kinematics benchmark: tracks upper-limb markers and derives reach kinematics (peak speed, SPARC, range of motion) from iPad-gameplay video. Pose models and VLMs (ViTPose+, RTMPose, MediaPipe, Sapiens2, DINOv3) are scored against 24-marker Vicon motion capture from 55 participants, including 15 children with cerebral palsy |
+| [**SMT-Learner**](https://github.com/RaihanSabique/SMT-Learner) · [🤗](https://huggingface.co/raihan116/SMT-Learner) | Self-supervised transformer for human movement trajectories, with a biomarker of motor skill learning |
 | [**motorlearning.games**](https://www.motorlearning.games/) | HIPAA-compliant multimodal platform (iPad, Raspberry Pi, AWS) used by 200+ participants in NIH-funded studies |
-| [**malURLBox**](https://app.ubicomply.ai/) | LLM-integrated dynamic sandbox for healthcare-targeted phishing, shipped as a [Microsoft Outlook extension](https://marketplace.microsoft.com/en-us/product/WA200011136?tab=Overview) (IEEE/ACM CHASE 2026) |
+| [**malURLBox**](https://app.ubicomply.ai/) | LLM-integrated dynamic sandbox for healthcare-targeted phishing, shipped as a [Microsoft Outlook extension](https://marketplace.microsoft.com/en-us/product/WA200011136?tab=Overview) |
 | [**NBA-Search**](https://github.com/skekre98/NBA-Search) | Open-source NBA analytics platform; I contributed clustering (K-Means, KNN) for player similarity |
 
 <p align="center">
@@ -57,8 +58,6 @@ At [**UbiComply**](https://ubicomply.ai), I lead applied-AI research for a compl
   <img src="https://img.shields.io/badge/JavaScript-12100E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
-
-
 
 ### 📚 Research
 Publications in IEEE, JMIR, Elsevier *Smart Health* (Best Paper Award, 2022), *Games for Health Journal*, and *Developmental Psychobiology*. See [Google Scholar](https://scholar.google.com/citations?user=dVcVjisAAAAJ) or my [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/md%20raihan.mia.2/bibliography/public/).
