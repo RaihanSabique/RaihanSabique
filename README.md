@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://raihansabique.github.io">Raihan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
   <p><b>Ph.D. Candidate in Computer Science @ Marquette University · Founding Research Director @ <a href="https://ubicomply.ai">UbiComply Inc.</a></b></p>
-  <p>I build agentic AI and multimodal ML systems for health: LLM agents that work on sensitive data under governance, and mobile and edge AI that measures human movement.</p>
 
   <a href="https://raihansabique.github.io"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://ubicomply.ai"><img src="https://img.shields.io/badge/UbiComply.ai-12100E?style=for-the-badge&logo=shield&logoColor=white"/></a>
